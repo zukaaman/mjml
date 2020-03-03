@@ -1,0 +1,136 @@
+<mjml>
+  <mj-head>
+    <mj-title>letter1</mj-title>
+  </mj-head>
+  <mj-body background-color="grey">
+
+    <mj-section padding="0 35px" background-color="red" width="600px">
+      <mj-column>
+
+        <mj-section padding="0" background-color="#ffffff">
+          <mj-column>
+            <mj-section>
+              <mj-column width="87px">
+                <mj-image href="#" padding="0" width="87px" height="49px" src="img/logo.png" />
+              </mj-column>
+              <mj-column>
+                <mj-text padding="0" font-family:"Arial, sans-serif" color="#000000" font-size="17px" align="center">
+                  Интернет-магазин <b>грузовых</b> автозапчастей
+                </mj-text>
+              </mj-column>
+            </mj-section>
+          </mj-column>
+          <mj-column>
+            <mj-image width="161px" height="123px" src="img/truck-img.png" />
+          </mj-column>
+        </mj-section>
+
+        <mj-spacer height="40px" />
+
+        <mj-section padding="0" background-color="#eef5ff" border-radius="15px">
+          <mj-column>
+            <mj-text font-family:"Arial, sans-serif" color="#2a416c" font-size="18px">
+              Здравствуйте!
+            </mj-text>
+            <mj-text font-family:"Arial, sans-serif" color="#000000" font-size="16px" line-height="28px">
+              Вы успешно зарегистрировались в личном кабинете на сайте avto.city и мы рады приветствовать Вас!
+            </mj-text>
+            <mj-text font-family:"Arial, sans-serif" color="#000000" font-size="16px">
+              Ваш логин: <span class="login" style="color:#284273; font-size: 16px;">ivanovivan</span>
+            </mj-text>
+            <mj-text font-family:"Arial, sans-serif" color="#ffffff" font-size="15px" font-weight="300" align="center">
+              <a style="color:#ffffff; text-decoration:none; padding: 10px 18px; border-radius: 8px; background-color: #274277;" href="#" target="_blank">
+                Войти в личный кабинет
+              </a>
+            </mj-text>
+            <mj-text font-family:"Arial, sans-serif" color="#000000" font-size="16px" line-height="28px">
+              В АвтоСити легко найти и купить нужную автозапчасть.
+            </mj-text>
+            <mj-text font-family:"Arial, sans-serif" color="#000000" font-size="16px" line-height="28px">
+              Оставайтесь с нами и будьте первыми в курсе о новых поступлениях, акциях и скидках.
+            </mj-text>
+            <mj-divider border-width="3px" border-style="solid" border-color="#274277" />
+            <mj-section>
+              <mj-column>
+                <mj-text font-family:"Arial, sans-serif" color="#000000" font-size="15px" letter-spacing="0.35px">
+                  С уважением, Ваш АвтоСити!
+                </mj-text>
+              </mj-column>
+              <mj-column>
+                <mj-text padding="0" font-family:"Arial, sans-serif" font-size="15px" align="right">
+                  <a style="color:#6d798d; text-decoration:none; padding: 10px 18px; border-radius: 10px; border: 1px solid #929aad;" href="#" target="_blank">
+                    Обратная связь
+                  </a>
+                </mj-text>
+              </mj-column>
+            </mj-section>
+          </mj-column>
+        </mj-section>
+
+        <mj-spacer height="70px" />
+
+        <mj-section padding="0" background-color="#274375" border-radius="15px 15px 0 0">
+          <mj-column padding="0 0 0 35px">
+            <mj-section padding="0">
+              <mj-column width="87px">
+                <mj-image href="#" padding="0" width="87px" height="49px" src="img/logo.png" />
+              </mj-column>
+              <mj-column>
+                <mj-text padding="0" font-family:"Arial, sans-serif" color="#ffffff" font-size="17px" align="center">
+                  Интернет-магазин грузовых автозапчастей
+                </mj-text>
+              </mj-column>
+            </mj-section>
+          </mj-column>
+          <mj-column padding="0 35px 0 0">
+            <mj-section padding="5px 0">
+              <mj-column width="25px" heigth="15px">
+                <mj-image padding="0" width="13px" height="11px" src="img/tel-icon.png" />
+              </mj-column>
+              <mj-column>
+                <mj-text padding="0" font-family:"Arial, sans-serif" color="#ffffff" font-size="15px" font-weight="300">
+                  <a style="color:#ffffff; text-decoration:none;" href="tel:88007772345" target="_blank">8 800 777 2345</a>
+                </mj-text>
+              </mj-column>
+            </mj-section>
+            <mj-section padding="5px 0">
+              <mj-column width="25px">
+                <mj-image padding="0" width="13px" height="11px" src="img/email-icon.png" />
+              </mj-column>
+              <mj-column>
+                <mj-text padding="0" font-family:"Arial, sans-serif" color="#ffffff" font-size="15px" font-weight="300">
+                  <a style="color:#ffffff; text-decoration:none;" href="mailto:office@avto.city" target="_blank">office@avto.city</a>
+                </mj-text>
+              </mj-column>
+            </mj-section>
+            <mj-section padding="5px 0">
+              <mj-column width="25px">
+                <mj-image padding="0" width="13px" height="13px" src="img/clock-icon.png" />
+              </mj-column>
+              <mj-column>
+                <mj-text padding="0" font-family:"Arial, sans-serif" color="#ffffff" font-size="15px" font-weight="300">
+                  10 до 18 ПН-ПТ
+                </mj-text>
+              </mj-column>
+            </mj-section>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0" background-color="#d1d7e3">
+          <mj-column width="350px" padding="10px 35px">
+            <mj-text padding="0" font-family:"Arial, sans-serif" color="#000000" font-size="15px" font-weight="300" align="left">
+              Автозапчасти по лучшим ценам
+            </mj-text>
+          </mj-column>
+          <mj-column width="180px" padding="10px 35px">
+            <mj-text padding="0" font-family:"Arial, sans-serif" color="#000000" font-size="15px" font-weight="300" align="right">
+              &#169; 2007 - 2019
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
